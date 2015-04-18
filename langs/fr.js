@@ -29,7 +29,7 @@ viiiiideoooooo.Translation.fr = {
 	"We hope to support your current browser soon, but for now there is no other way to enjoy Viiiiideoooooo!": "Nous espérons supporter votre navigateur très bientôt, mais pour l'instant il n'y a pas d'autre moyen de profiter de Viiiiideoooooo!",
 	"Retry": "Réessayer",
 	"Error :(": "Erreur :(",
-	"Viiiiideoooooo is free but needs support of its users, please disable your ads blocker": "Viiiiideoooooo est gratuit mais a besoin du support de ses utilisateurs, merci de désactiver votre bloquer de pub",
+	"Viiiiideoooooo is free but needs support of its users, please disable your ads blocker": "Viiiiideoooooo est gratuit mais a besoin du support de ses utilisateurs, merci de désactiver votre bloqueur de pub",
 	"Viiiiideoooooo is free but you can support it with just a click on ads at the top of the window, thank you very much!": "Viiiiideoooooo est gratuit mais vous pouvez l'aider juste avec un clic sur la pub en haut de l'écran, merci beaucoup !",
 	"Viiiiideoooooo is free but needs support of its users, please disable your ads blocker and if you like Viiiiideoooooo you can click on ad from time to time, just one click ;-)": "Viiiiideoooooo est gratuit mais a besoin du support de ses utilisateurs, merci de désactiver votre bloquer de pub et si vous aimez Viiiiideoooooo vous pouvez cliquer sur la pub de temps en temps, juste un clic ;-)",
 	"Overview": "Aperçu",
